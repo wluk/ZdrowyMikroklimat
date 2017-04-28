@@ -1,17 +1,17 @@
 {
-    "results": {
-        "sunrise": "6:02:19 AM",
-        "sunset": "6:40:20 PM",
-        "solar_noon": "12:21:20 PM",
-        "day_length": "12:38:01",
-        "civil_twilight_begin": "5:36:19 AM",
-        "civil_twilight_end": "7:06:20 PM",
-        "nautical_twilight_begin": "5:05:34 AM",
-        "nautical_twilight_end": "7:37:06 PM",
-        "astronomical_twilight_begin": "4:34:03 AM",
-        "astronomical_twilight_end": "8:08:37 PM"
-    },
-    "status": "OK"
+  "results": {
+    "sunrise": "6:02:19 AM",
+    "sunset": "6:40:20 PM",
+    "solar_noon": "12:21:20 PM",
+    "day_length": "12:38:01",
+    "civil_twilight_begin": "5:36:19 AM",
+    "civil_twilight_end": "7:06:20 PM",
+    "nautical_twilight_begin": "5:05:34 AM",
+    "nautical_twilight_end": "7:37:06 PM",
+    "astronomical_twilight_begin": "4:34:03 AM",
+    "astronomical_twilight_end": "8:08:37 PM"
+  },
+  "status": "OK"
 }
 // http://api.sunrise-sunset.org/
 // http://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400&date=2017-04-01
